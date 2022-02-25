@@ -118,6 +118,10 @@ body {
     text-transform: uppercase;
 }
 
+#slide1 .text-slider > p {    
+    text-align: justify;
+}
+
 .estrellas {
     color: gold;
 }
